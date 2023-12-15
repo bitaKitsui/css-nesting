@@ -48,7 +48,7 @@ mdc: true
 - Chrome, Firefox, Safari など主要ブラウザで今年サポート
 - 一つ制限があったが、それも最近解消された
 
-<img src="can_i_use.png" alt="" style="height:340px">
+<img src="/can_i_use.png" alt="" style="height:340px">
 
 ---
 
